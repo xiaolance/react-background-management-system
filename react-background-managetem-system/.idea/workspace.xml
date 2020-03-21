@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9862ae81-65f8-40d6-8ea3-0df1993d9040" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKmvTX1PUtXpq5uei9z7LQAXZL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9862ae81-65f8-40d6-8ea3-0df1993d9040" name="Default Changelist" comment="" />
+      <created>1582699891225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582699891225</updated>
+      <workItem from="1582699894665" duration="5616000" />
+      <workItem from="1582705540387" duration="9292000" />
+      <workItem from="1582718953893" duration="3856000" />
+      <workItem from="1582723719613" duration="537000" />
+      <workItem from="1582725109470" duration="375000" />
+      <workItem from="1582725659976" duration="2065000" />
+      <workItem from="1582789219307" duration="16096000" />
+      <workItem from="1582864434094" duration="20673000" />
+      <workItem from="1583054942488" duration="7415000" />
+      <workItem from="1583129571794" duration="6117000" />
+      <workItem from="1583310422750" duration="1036000" />
+      <workItem from="1584251302932" duration="548000" />
+      <workItem from="1584252482633" duration="6981000" />
+      <workItem from="1584334957595" duration="3000" />
+      <workItem from="1584691365469" duration="24000" />
+      <workItem from="1584697426123" duration="1014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582870806293">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="625" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1582870806293" />
+    <state x="477" y="270" key="EditFileWatcherDialog" timestamp="1582871680184">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="477" y="270" key="EditFileWatcherDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1582871680184" />
+    <state x="313" y="97" width="1383" height="883" key="SettingsEditor" timestamp="1583130530199">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="313" y="97" width="1383" height="883" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1583130530199" />
+    <state x="508" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1584253090112">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="508" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1584253090112" />
+  </component>
+</project>
